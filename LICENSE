@@ -1,5 +1,3 @@
-cd C:\dev\blob-arena
-Set-Content -Path "LICENSE" -Value @"
 MIT License
 
 Copyright (c) 2026 Bloodmoon001
